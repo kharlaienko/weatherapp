@@ -1,0 +1,30 @@
+* {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+   padding: 0;
+   height: 100%;
+}
+
+:root {
+   --main-color: #3a3a3a;
+   --bg: #f0f1f8;
+   --surface: #ffffff;
+   font-family: sans-serif;
+}
+
+html {
+   color: var(--main-color);
+   height: 100%;
+   background-color: var(--bg);
+}
+
+#app {
+   height: 100%;
+   max-width: calc(1300px + 1rem);
+   margin: 0 auto;
+   padding: 1rem;
+   font-weight: normal;
+}

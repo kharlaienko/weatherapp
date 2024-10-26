@@ -1,0 +1,25 @@
+{
+  "main": "Main",
+  "favorites": "Favorites",
+  "noResults": "There are no match",
+  "Autocomplete": {
+    "placeholder": "Start to type a city"
+  },
+  "Main": {
+    "findCity": "Find a city"
+  },
+  "loading": "Loading...",
+  "maxTemp": "Max temperature",
+  "minTemp": "Min temperature",
+  "now": "Temp now",
+  "day": "Today",
+  "5days": "5 days",
+  "deleteMessage": "Confirm delete",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "favLimit": "Max favorites is 5. Remove existing elements",
+  "close": "Close",
+  "maxBlocks": "Max limit for elements is 5. Remove elements to create new one",
+  "nofavorites": "There are not favorits. Go to main page to add element",
+  "existMessage": "City has been alrady added."
+}
